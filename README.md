@@ -1,4 +1,5 @@
-### Hi there 👋
+ ### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
+## I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequipa, Perú. Been into tech since I was vey little but have always been a lot lazy... I've been trying to change that! Thank you for looking at my **Github** profile.
 
 <!--
 **rafaelcanoguitton/rafaelcanoguitton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
