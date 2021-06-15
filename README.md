@@ -2,8 +2,7 @@
 <p align="center">
   <img src="/giphy.webp"><br/>
   (Yes my setup has creepers on the back)
-</p><br/>
-
+</p>
 ### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
 
 ----
