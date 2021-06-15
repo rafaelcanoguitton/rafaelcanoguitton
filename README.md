@@ -73,7 +73,6 @@ If for any reason you want to contact me here's how you could do so:
   <br/>
 **Categorization of repositories:**
   <br/>
-  <br/>
   
 Since I have most of my University assignments and will use this profile for personal projects, I made this table if anyone wants to take a look at my repositories:
 
