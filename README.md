@@ -4,9 +4,7 @@
   (Yes my setup has creepers on the back)
 </p><br/>
 
-<p align="center">
 ### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
-</p>
 ----
 
 <a href="https://discord.gg/QMWFcH3R">
