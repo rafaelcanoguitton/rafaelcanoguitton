@@ -9,7 +9,9 @@
   <img align="left" alt="Rafael's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
-  
+   
+    
+    
 I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequipa, Perú. Been into tech since I was vey little but have always been a lot lazy... I've been trying to change that! Thank you for looking at my **Github** profile.
 
 <!--
