@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/RVX4qjIlZLjXnDUV6V/giphy.gif)
+![](/giphy.webp)
 
 ### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
 
