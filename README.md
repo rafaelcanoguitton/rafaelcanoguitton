@@ -16,6 +16,9 @@
 </a>
 <a href="https://www.linkedin.com/in/rafxar/">
   <img align="left" alt="Rafael's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.twitch.tv/rafxar/">
+  <img align="left" alt="Rafael's Twitch" width="22px" src="https://github.com/get-icon/geticon/blob/master/icons/twitch.svg" />
 </a><br/>
   <br/>
   <br/>
