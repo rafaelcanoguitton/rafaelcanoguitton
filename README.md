@@ -49,7 +49,16 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg"></code>
-
+  <br/>
+  <br/>
+**Currently learning/looking to learn::**
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/vue.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/graphql.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/deno.svg"></code>
+  <br/>
+  <br/>
 **Categorization of repositories:**
   <br/>
   <br/>
