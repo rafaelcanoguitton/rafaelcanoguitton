@@ -44,7 +44,10 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/flutter.svg"></code>
-
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/emacs.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/neovim.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg"></code>
 
 **Categorization of repositories:**
   <br/>
