@@ -68,7 +68,7 @@ If for any reason you want to contact me here's how you could do so:
   <br/>
  <a href="mailto:rafael.cano@ucsp.edu.pe"><img src="https://img.shields.io/badge/-rafael.cano@ucsp.edu.pe-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  <a href="https://t.me/rafxar"><img src="https://img.shields.io/badge/-@rafxar-1769FF?style=flat&logo=Telegram&logoColor=blue"/></a>
- <a href="https://wa.link/ulo37z"><img src="https://img.shields.io/badge/-Whatsapp-1769FF?style=flat&logo=Whatsapp&logoColor=Green"/></a>
+ <a href="https://wa.link/ulo37z"><img src="https://img.shields.io/badge/-Whatsapp-1769FF?style=flat&logo=Whatsapp&logoColor=green"/></a>
  <a href="mailto:rafxar@gmail.com"><img src="https://img.shields.io/badge/-rafxar@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <br/>
 **Categorization of repositories:**
