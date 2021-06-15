@@ -45,6 +45,11 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/flutter.svg"></code>
 
+
+**Categorization of repositories:**
+  <br/>
+  <br/>
+  
 Since I have most of my University assignments and will use this profile for personal projects, I made this table if anyone wants to take a look at my repositories:
 
 (The table is like this because of github flavored markdown)
