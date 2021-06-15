@@ -22,8 +22,8 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 **Github stats:**
   <br/>
   <br/>
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelcanoguitton&show_icons=true&theme=radical)
-
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelcanoguitton&show_icons=true&theme=radical&count_private=true)
+![Rafael's Programming Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelcanoguitton&layout=compact&langs_count=8&theme=radical)
 ----
 
 **Languages and tools:**
