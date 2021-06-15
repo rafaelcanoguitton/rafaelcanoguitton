@@ -1,6 +1,6 @@
 
 <p align="center">
-  ![](/giphy.webp)
+  <img src="/giphy.webp">
 </p>
 ### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
 
