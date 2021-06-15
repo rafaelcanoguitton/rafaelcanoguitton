@@ -71,6 +71,7 @@ If for any reason you want to contact me here's how you could do so:
  <a href="https://wa.link/ulo37z"><img src="https://img.shields.io/badge/-Whatsapp-36FF17?style=flat&logo=Whatsapp&logoColor=brightgreen"/></a>
  <a href="mailto:rafxar@gmail.com"><img src="https://img.shields.io/badge/-rafxar@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <br/>
+  <br/>
 **Categorization of repositories:**
   <br/>
   
