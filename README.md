@@ -51,6 +51,7 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg"></code>
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
+<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/dart.svg"></code>
   <br/>
   <br/>
 **Currently learning/looking to learn:**
