@@ -1,5 +1,4 @@
-
-![Profile banner](https://media.giphy.com/media/RVX4qjIlZLjXnDUV6V/giphy.gif)
+![](https://media.giphy.com/media/RVX4qjIlZLjXnDUV6V/giphy.gif)
 
 ### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
 
@@ -27,6 +26,7 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
   <br/>
 ![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelcanoguitton&show_icons=true&theme=radical&count_private=true)
 ![Rafael's Programming Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelcanoguitton&layout=compact&langs_count=8&theme=radical)
+
 ----
 
 **Languages and tools:**
