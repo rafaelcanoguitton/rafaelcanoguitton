@@ -19,6 +19,12 @@
 </a>
 <a href="https://www.twitch.tv/rafxar/">
   <img align="left" alt="Rafael's Twitch" width="22px" src="https://github.com/get-icon/geticon/blob/master/icons/twitch.svg" />
+</a>
+<a href="https://www.youtube.com/rafxar/">
+  <img align="left" alt="Rafael's Yt" width="22px" src="https://github.com/get-icon/geticon/blob/master/icons/youtube.svg" />
+</a>
+<a href="https://www.instagram.com/rafxar/">
+  <img align="left" alt="Rafael's Instagram" width="22px" src="https://github.com/get-icon/geticon/blob/master/icons/instagram.svg" />
 </a><br/>
   <br/>
   <br/>
