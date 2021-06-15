@@ -20,10 +20,9 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 ----
 
 **Github stats:**
-
-
-
-
+  <br/>
+  <br/>
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelcanoguitton&show_icons=true)
 
 ----
 
