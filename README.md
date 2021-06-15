@@ -1,4 +1,4 @@
-![My setup banner](https://i.imgur.com/mfEvdJ1.mp4)
+![My setup banner](https://imgur.com/a/AE8ncPo)
 ### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
 
 ----
