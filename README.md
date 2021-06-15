@@ -1,7 +1,8 @@
 
 <p align="center">
   <img src="/giphy.webp">
-</p>
+</p><br/>
+
 ### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
 
 ----
