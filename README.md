@@ -1,4 +1,4 @@
-![BannerGIF](https://media.giphy.com/media/RVX4qjIlZLjXnDUV6V/giphy.gif)
+<img src="https://media.giphy.com/media/RVX4qjIlZLjXnDUV6V/giphy.gif">
 ### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
 
 ----
