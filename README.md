@@ -27,7 +27,7 @@
 </a><br/>
   <br/>
   <br/>
-I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequipa, Perú. Been into tech since I was vey little but have always been a lot lazy... I've been trying to change that! Thank you for looking at my Github profile.
+I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequipa, Perú. Been into tech since I was vey little I've always dreamt about becoming a developer. Thank you for looking at my Github profile.
   <br/>
   <br/>
 
