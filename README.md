@@ -78,7 +78,9 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/deno.svg"></code>
   <br/>
   <br/>
+
 **Contact information:**
+
   <br/>
   <br/>
 If you want to contact me here's some links, I check these on the daily so a quick reply is almost guaranteed:
@@ -89,7 +91,9 @@ If you want to contact me here's some links, I check these on the daily so a qui
  <a href="mailto:rafxar@gmail.com"><img src="https://img.shields.io/badge/-rafxar@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <br/>
   <br/>
+
 **Categorization of repositories:**
+
   <br/>
 
 Since I have most of my University assignments and will use this profile for personal projects, I made this table if anyone wants to take a look at my repositories:
