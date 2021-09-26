@@ -80,9 +80,9 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
   <br/>
 
 **Contact information:**
+  <br/>
+  <br/>
 
-  <br/>
-  <br/>
 If you want to contact me here's some links, I check these on the daily so a quick reply is almost guaranteed:
   <br/>
  <a href="mailto:rafael.cano@ucsp.edu.pe"><img src="https://img.shields.io/badge/-rafael.cano@ucsp.edu.pe-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
