@@ -67,6 +67,7 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 <code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg"></code>
   <br/>
   <br/>
+</code>
 
 **Currently learning/looking to learn:**
 
