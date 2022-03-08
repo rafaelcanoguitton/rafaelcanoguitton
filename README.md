@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="/giphy.webp"><br/>
-  (Yes my setup has creepers on the back)
-</p><br/>
+![](https://github.com/BEPb/BEPb/blob/main/src/header_.png?raw=true)
 
-### Howdy! <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile!;I'm+a+Computer+Science+student.;A+self+taught+fullstack+developer.;And+a+Linux+enthusiast.;I+love+learning+and+helping+others!)](https://git.io/typing-svg)   <img src="https://i.imgur.com/QYjhVX7.gif" width="25px">
 
 ----
 
@@ -33,48 +30,32 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 
 ----
 
-**Github stats:**
-  <br/>
-  <br/>
+### 📈 Github stats:
+
+![Rafael's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rafaelcanoguitton&hide_border=true&theme=redical)
 ![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelcanoguitton&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true)
 ![Rafael's Programming Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelcanoguitton&layout=compact&langs_count=8&theme=radical&hide_title=true&hide_border=true)
 
 ----
 
-**Languages and tools:**
-  <br/>
-  <br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/flutter.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/emacs.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/neovim.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/dart.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/opengl.svg"></c>
-<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/django.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/haskell-icon.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/expo.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg"></code>
-<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/graphql.svg"></code>
+### Languages and tools:
+
+Domain | Item
+--- | ---
+**Programming languages**|<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/dart.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/haskell-icon.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/java.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg"></code>
+**Backend**|<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/django.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/graphql.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/redis.svg"></code>
+**Database**|<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg"></code>
+**Tools**|<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/emacs.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/neovim.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/opengl.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/expo.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/apollostack.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/jest.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/redux.svg"></code>
+**Frontend**|<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/flutter.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/react.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg"></code>
+**OS**|<code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/apple.svg"></code><code><img height="20" src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg"></code>
+
+
 
   <br/>
   <br/>
 </code>
 
-**Currently learning/looking to learn:**
+### Currently learning/looking to learn:
 
   <br/>
   <br/>
@@ -84,7 +65,7 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
   <br/>
   <br/>
 
-**Contact information:**
+### Contact information:
   <br/>
   <br/>
 
@@ -97,7 +78,7 @@ If you want to contact me here's some links, I check these on the daily so a qui
   <br/>
   <br/>
 
-**Categorization of repositories:**
+### Categorization of repositories:
 
   <br/>
 
