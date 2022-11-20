@@ -6,7 +6,7 @@
 <a href="https://rafxar-portfolio.vercel.app">
   <img src="https://lanyard.cnrad.dev/api/169627971726999553"/>
 </a>
-
+<br/>
 <a href="https://discord.gg/QMWFcH3R">
   <img align="left" alt="Rafael's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
