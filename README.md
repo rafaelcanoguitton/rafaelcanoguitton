@@ -36,7 +36,7 @@ I'm Rafael, Computer Science student at Universidad Católica San Pablo, Arequip
 ### 📈 Github stats:
 
 <!-- ![Rafael's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rafaelcanoguitton&hide_border=true&theme=redical) -->
-[![Rafael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafaelcanoguitton&bg_color=350820&color=e218d5&line=2f0f2c&point=d20f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rafael's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafaelcanoguitton&bg_color=141321&color=ff6bf5&line=4c569e&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelcanoguitton&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true)
 ![Rafael's Programming Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelcanoguitton&layout=compact&langs_count=8&theme=radical&hide_title=true&hide_border=true)
 
